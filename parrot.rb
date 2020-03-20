@@ -4,3 +4,4 @@ def parrot(name)
    puts "#{name}"
      name
      end
+     parrot("Squawk")
